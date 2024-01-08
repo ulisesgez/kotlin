@@ -1,3 +1,3 @@
-fun main() {
+fun AaaIntroduccion() {
     println("¡Hola mundo!")
 }
